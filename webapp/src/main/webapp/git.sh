@@ -1,12 +1,15 @@
 #!/bin/bash
+echo "git status"
 git status
-echo "git status"
 sleep 4
+
+echo "git add ."
 git add .
-echo "git status"
 sleep 4
-git commit -m "Updated index.jsp file 072720222409"
+
 echo "git commit"
+git commit -m "Updated index.jsp file 072720222409"
 sleep 4
-git push origin master
+
 echo "git push origin master/main"
+git push origin master
