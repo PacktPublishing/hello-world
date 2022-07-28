@@ -33,7 +33,7 @@
   </div>
 
   <h1> All The Best</h1>
-  <h1> Last View: Thursday, 07 July 2022 at 02:07 am</h1>
+  <h1> Last Review: Thursday, 07 July 2022 at 02:07 am</h1>
 
   
 </form>
