@@ -18,3 +18,6 @@ echo "git push origin master/main is running"
 sleep 2
 git push origin master
 echo ""
+
+echo "Congratualation, code has successfully add, commit and push."
+sleep 4
