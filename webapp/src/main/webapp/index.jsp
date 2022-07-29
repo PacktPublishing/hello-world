@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Origin: Arristide Tchatua</h1>
-    <h1>New user Register for DevOps Review | (Nouvelle enregistrement pour la revue DevOps)</h1>
+    <h1>New user Register for DevOps Review(Nouvelle enregistrement pour la revue DevOps)</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -33,7 +33,7 @@
   </div>
 
   <h1> All The Best</h1>
-  <h1> Last Review: Thursday, 07 July 2022 at 02:07 am</h1>
+  <h1> Last Review: Thursday, 29 July 2022 at 02:55 am</h1>
 
   
 </form>
