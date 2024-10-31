@@ -24,6 +24,13 @@
     <finalName>${project.artifactId}</finalName>
 
     <plugins>
+      <!-- Updated maven-war-plugin to a compatible version -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>3.3.2</version>
+      </plugin>
+      
       <plugin>
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-maven-plugin</artifactId>
