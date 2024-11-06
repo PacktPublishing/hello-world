@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <p>Please fill in this form to create an account.</p>
+    <h1>welcome To Devops Ansible Practice Sample 14</h1>
+    <p>Start Here.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
